@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+}
+
+.parrafo{
+    color: black;
+    font-size:  16px;
+   font-weight: bold;
+}
